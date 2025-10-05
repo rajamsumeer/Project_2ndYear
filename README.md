@@ -5,6 +5,7 @@
 --------------------
 
 <div align="center">
+<img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="40"/>
